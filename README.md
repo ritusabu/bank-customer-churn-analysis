@@ -57,11 +57,11 @@ There are also filters for Geography, Gender, Age Group and Member Status.
 
 ### Churn Analysis Dashboard
 
-![Churn Dashboard](Churn_Dashboard.png)
+![Churn Dashboard](Churn_Dashboard.PNG)
 
 ### Customer Detail
 
-![Customer Detail](Customer_Detail.png)
+![Customer Detail](Customer_Detail.PNG)
 
 ## Project File
 
