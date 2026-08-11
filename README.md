@@ -61,7 +61,7 @@ There are also filters for Geography, Gender, Age Group and Member Status.
 
 ### Customer Detail
 
-![Customer Detail](Customer_Detail.PNG)
+![Customer Detail](customer_Detail.PNG)
 
 ## Project File
 
